@@ -13,3 +13,4 @@ for i in numbers[1:]:
 print(primes)
 print(not_primes)
 
+
